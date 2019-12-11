@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "654477772709",
+    "firebase_url": "https://weightlossdiary-85bc2.firebaseio.com",
+    "project_id": "weightlossdiary-85bc2",
+    "storage_bucket": "weightlossdiary-85bc2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654477772709:android:bed2c49c9db6998ce18a4c",
+        "android_client_info": {
+          "package_name": "com.example.weightlossdiary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654477772709-jqm323ldeu0koqgruoeh6j7jmhlqkmvh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.weightlossdiary",
+            "certificate_hash": "15dd76f30a81a06af52512b701df20dccb4c96ef"
+          }
+        },
+        {
+          "client_id": "654477772709-9ktfqab07rto1fffhi5do19df29abhie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7hNB9-XZ99b3U_ZXNwaHCvHOY23rhTLQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654477772709-9ktfqab07rto1fffhi5do19df29abhie.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Quoteo</string>
+
+    <string name="str_quote">“Inspirational Quote“</string>
+    <string name="str_author">Quote\'s Author</string>
+    <string name="str_postQuote">Post Quote</string>
+    <string name="str_signOut">Sign Out</string>
+    <string name="str_email">E-Mail Address</string>
+    <string name="str_password">Password</string>
+    <string name="str_buttonSubmit">Submit</string>
+    <string name="str_loginButton">Log In</string>
+    <string name="str_entryQuote">Quote</string>
+    <string name="str_entryAuthor">Author</string>
+    <string name="str_entrySubmit">Submitted by</string>
+    <string name="str_entrySubmittedBy">User Email</string>
+
+    <string name="str_clickCreateAccLink">Need an account? Tap here to create.</string>
+    <string name="str_headPostList">Share and discover daily inspirational quotes...</string>
+    <string name="str_headSubmitPost">Share a quote that you find inspiring...</string>
+    <string name="str_headMain">Log In and start sharing inspirational quotes...</string>
+    <string name="str_headCreateAcc">Create an account and start inspiring...</string>
+
+</resources>
